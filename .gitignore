@@ -1,0 +1,10 @@
+node_modules/
+
+#parcel-bundler cache
+.cache
+
+#generate
+dist
+
+#workspace config
+.vscode
